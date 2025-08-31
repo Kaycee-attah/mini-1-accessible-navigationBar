@@ -14,7 +14,7 @@ This project demonstrates how to build an accessible and responsive navigation b
 
 1.  Clone the repository:
     ```bash
-    git clone [YOUR_REPO_URL]
+    git clone https://github.com/Kaycee-attah/mini-1-accessible-navbar.git
     ```
 2.  Open `index.html` in your web browser.
 
