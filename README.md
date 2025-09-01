@@ -10,6 +10,10 @@ This project demonstrates how to build an accessible and responsive navigation b
 *   Hamburger menu transformation on mobile
 *   Keyboard navigation support
 
+## Live Demo
+
+Check out the live demo here: [https://kaycee-attah.github.io/mini-1-accessible-navigationBar/](https://kaycee-attah.github.io/mini-1-accessible-navigationBar/)
+
 ## Getting Started
 
 1.  Clone the repository:
